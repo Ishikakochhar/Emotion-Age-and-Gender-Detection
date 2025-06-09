@@ -1,4 +1,4 @@
-###Emotion, Age, and Gender Detection with Mood-Based Recommendations
+# Emotion, Age, and Gender Detection with Mood-Based Recommendations
 
 This project is a Deep Learning-based Image Processing (DIP) system that detects emotion, age, and gender from facial images and recommends mood-appropriate music and content. It combines computer vision, data analysis, and generative AI for a personalized user experience.
 
